@@ -1,4 +1,4 @@
-Progressive Dual-Branch Diffusion Model: A Novel Approach for Robust 2D Human Pose Estimation
+Enhanced Underwater Object Detection via Multi-Scale Attention and Adaptive Feature Fusion
 =
 This is the code for this paper
 
