@@ -38,3 +38,4 @@ engine/extre_module/custom_nn/module/MSCB
 engine/extre_module/custom_nn/transformer/LSSA
 
 ```
+[![DOI](https://zenodo.org/badge/1082326874.svg)](https://doi.org/10.5281/zenodo.17432404)
