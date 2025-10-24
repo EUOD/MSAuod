@@ -27,10 +27,3 @@ Test
 python train.py -c configs/yaml/dfine_hgnetv2_s_mg.yml --test-only -r outputs/best_stg2.pth
 
 ```
-Acknowledgements
-=
-Thanks for the open-source:
-
-[Alphapose](https://github.com/MVIG-SJTU/AlphaPose)
-
-[Pose2UV](https://github.com/boycehbz/Pose2UV?tab=readme-ov-file)
