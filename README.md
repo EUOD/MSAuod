@@ -27,3 +27,14 @@ Test
 python train.py -c configs/yaml/dfine_hgnetv2_s_mg.yml --test-only -r outputs/best_stg2.pth
 
 ```
+Model
+=
+```
+
+engine/extre_module/custom_nn/block/MANet
+engine/extre_module/custom_nn/downsample/AWDS
+engine/extre_module/custom_nn/featurefusion/CGFM
+engine/extre_module/custom_nn/module/MSCB
+engine/extre_module/custom_nn/transformer/LSSA
+
+```
